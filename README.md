@@ -1,0 +1,1 @@
+# KTI-seasonal-strategy
